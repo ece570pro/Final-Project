@@ -6,5 +6,16 @@ This repository contains the codebase for a data-driven framework that predicts 
 
 ---
 
-## 📁 Project Structure
+To run the ANN model , you only need the following python packages installed :
+
+1. Tesnorflow
+2. Pandas
+3. numpy
+4. scikit-learn
+5. matplotlib
+
+   Use the command : pip install tensorflow pandas numpy scikit-learn matplotlib
+
+
+If you want to run the MSG based scripts for homogenization (which is just for input data generation), you will need additional softwares as indicated in the Projectworkflow and Requirements document in the Reference Paper folder. 
 
