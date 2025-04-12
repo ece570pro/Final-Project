@@ -17,5 +17,5 @@ To run the ANN model , you only need the following python packages installed :
    Use the command : pip install tensorflow pandas numpy scikit-learn matplotlib
 
 
-If you want to run the MSG based scripts for homogenization (which is just for input data generation), you will need additional softwares as indicated in the Projectworkflow and Requirements document in the Reference Paper folder. 
+If you want to run the MSG based scripts for homogenization (which is just for input data generation), you will need additional softwares as indicated in the "Project Workflow and Requirements" document in the Reference Paper folder. 
 
