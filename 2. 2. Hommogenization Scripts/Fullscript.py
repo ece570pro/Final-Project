@@ -7,7 +7,7 @@ import contextlib
 import io
 
 
-# Function to calculate R
+# Function to calculate Radius of Hex Packed cell
 def calculate_R(Vf):
     return math.sqrt(math.sqrt(3) * Vf / (2 * math.pi))
 
@@ -107,7 +107,7 @@ def create_sc_file(msh_file, sc_file):
         print(f"An error occurred while writing the .sc file: {e}")
         raise
 
-# Main processing function for each row
+# Processing of each row
 def process_row(row, index):
     try:
         Vf = row['Vf']
