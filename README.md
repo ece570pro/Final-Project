@@ -19,3 +19,10 @@ To run the ANN model , you only need the following python packages installed :
 
 If you want to run the MSG based scripts for homogenization (which is just for input data generation), you will need additional softwares as indicated in the "Project Workflow and Requirements" document in the Reference Paper folder. 
 
+# Running the ANN model
+1. Go to the directory with FinalANN.py
+2. Ensure all requuired moodules are installed
+3. Run the script - python FinalANN.py
+4. To plot the results - python Plots.py
+5. To make new predictions - python Predictions.py
+
